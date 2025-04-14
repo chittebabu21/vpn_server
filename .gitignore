@@ -1,0 +1,6 @@
+/.venv
+/certs/server.crt
+/certs/server.csr
+/certs/server.key
+/.idea
+
